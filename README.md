@@ -6,4 +6,4 @@ Methods:
 1. data preprocessing
 2. data building
 3. data compiling
-4. data training DNNs
+4. data training DNN
